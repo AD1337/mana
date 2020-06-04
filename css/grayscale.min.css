@@ -201,7 +201,7 @@
 
 .projects-section {
     padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-bottom: 4rem;
 }
 
 .development {
@@ -237,8 +237,8 @@
 }
 
 .signup-section {
-    padding: 3rem 0;
-
+    /*padding: 3rem 0
+ */
     /*background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url(../img/bg-signup.jpg)
  */
     /*background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../images/007.png)
